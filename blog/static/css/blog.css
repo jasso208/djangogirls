@@ -9,13 +9,25 @@
     font-size: 36pt;
     text-decoration: none;
 }
-
+.page-header h2, .page-header h2 a, .page-header h2 a:visited, .page-header h2 a:active {
+    color: #ffffff;
+    font-size: 36pt;
+    text-decoration: none;
+}
+#leyenda_encabezado_2 a{
+    color: #ffffff;
+    font-size:10pt;
+    text-decoration:none; 
+    margin-top:50px;
+    display:block;
+    
+}
 .content {
     margin-left: 40px;
 }
 
 h1, h2, h3, h4 {
-    font-family: 'Lobster', cursive;
+    font-family: sans-serif;
 }
 
 .date {
